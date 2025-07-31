@@ -32,7 +32,10 @@ const Homepage = () => {
               😍 Happy girlfriend's day 💖
             </h1>
 
-            <Link className="text-[1.4rem] capitalize text-white text-4xl font-bold drop-shadow-[0px_0px_7px_white]  flex animate-bounce">
+            <Link
+              to={"/video_page"}
+              className="text-[1.4rem] capitalize text-white text-4xl font-bold drop-shadow-[0px_0px_7px_white]  flex animate-bounce"
+            >
               ↪️Click!!!
             </Link>
           </div>
