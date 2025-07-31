@@ -28,12 +28,12 @@ const Homepage = () => {
               className="h-[400px] w-[90%] object-cover rounded-[20px]"
             />
 
-            <h1 className="poppins text-[1.55rem] text-pink-500 text-4xl font-bold drop-shadow-[2px_2px_4px_black] capitalize">
-              Happy girlfriend's day 💖
+            <h1 className="poppins text-[1.4rem] text-pink-500 text-4xl font-bold drop-shadow-[2px_2px_4px_black] capitalize">
+              😍 Happy girlfriend's day 💖
             </h1>
 
-            <Link className="text-[1.7rem] capitalize text-white text-4xl font-bold drop-shadow-[0px_0px_7px_white] flex animate-bounce">
-              😍 ↪️
+            <Link className="text-[1.4rem] capitalize text-white text-4xl font-bold drop-shadow-[0px_0px_7px_white]  flex animate-bounce">
+              ↪️Click!!!
             </Link>
           </div>
         </div>
