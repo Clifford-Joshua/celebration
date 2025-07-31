@@ -1,0 +1,25 @@
+@import "tailwindcss";
+
+img {
+  display: block;
+}
+
+.great-vibes-regular {
+  font-family: "Great Vibes", cursive;
+}
+
+.merriweather {
+  font-family: "Merriweather", serif;
+}
+
+.dancing-script {
+  font-family: "Dancing Script", cursive;
+}
+
+.poppins {
+  font-family: "Poppins", sans-serif;
+}
+
+.playfair-display {
+  font-family: "Playfair Display", serif;
+}
